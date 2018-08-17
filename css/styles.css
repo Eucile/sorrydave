@@ -3,10 +3,10 @@
   background-image: url("https://codepen.io/saransh/pen/BKJun/image/large.png");
   color: white;
   border-style: ridge;
-  margin-top: 20px;
-  width: 500px;
-  margin-left: 300px;
+  width: 450px;
   margin-bottom: 50px;
+  float: right;
+  position: static;
 }
 
 h1 {

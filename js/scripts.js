@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $("#formOne").submit(function() {
     event.preventDefault();
-    $(".well").show();
+    $(".well").fadeIn(2000);
     var numberInput = parseInt($("input#userNumber").val());
     var robotString = '';
 
