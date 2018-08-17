@@ -1,16 +1,17 @@
-# Roman Numerals Conversion
+# Sorry, Dave
 
-#### Webpage form to convert users input into various replies based on what numbers they include  17 Aug 2018
+#### Application to convert users input into various replies based on what numbers they include or if the value of their input is evenly divisible by 3  17 Aug 2018
+
 #### By Krystal Foster
 
 ## Description
 
-Using for loops, this website furthers my exploration into javascript by taking user integers and converting them into Roman numerals. Behavior-driven Development steps:
+Using for loops, this website furthers my exploration into javascript by taking user integers and converting user input that includes specific numbers, like 1 or 0, into different messages. Behavior-driven Development steps:
 
-|**Program Replaces 0 with "Beep!"** | User input: "0" | Output: "Beep!" |
-| **Program replaces 1 with "Boop!"**| User Input: "13" | Output: "Boop!" |
+|**Program replaces any input including a 0 with "Beep!"** | User input: "0" | Output: "Beep!" |
+| **Program replaces any input including a 1 with "Boop!"**| User Input: "13" | Output: "Boop!" |
 | **Program replaces numbers evenly divisible by 3 with "I'm sorry, Dave, I can't do that."**| Input: "87" | Output: "I'm sorry Dave..." |
-|**Program overrides previous specs if latter specs are met, in order of importance** | Input: "30" Output: "I'm sorry, Dave..." |
+|**Program overrides previous specs if more "important" specs are met. In this application, that is: numbers divisible by 3, 1, and 0 (in order of most important to least.) ** | Input: "30" Output: "I'm sorry, Dave..." |
 |**
 
 
