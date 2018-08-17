@@ -15,8 +15,7 @@ h1 {
 p {
   font-size: 22px;
   width: 400px;
-
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 img {
@@ -35,6 +34,7 @@ img {
 
 body {
   background-color: black;
+  font-family: 'Yantramanav', sans-serif;
 }
 
 button {
