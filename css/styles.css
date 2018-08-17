@@ -8,9 +8,15 @@
   margin-left: 300px;
 }
 
+h1 {
+  font-family: 'Orbitron', sans-serif;
+}
+
 p {
   font-size: 22px;
   width: 400px;
+
+  margin-bottom: 20px;
 }
 
 img {
@@ -29,4 +35,8 @@ img {
 
 body {
   background-color: black;
+}
+
+button {
+  font-family: 'Orbitron', sans-serif;
 }
