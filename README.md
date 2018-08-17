@@ -11,10 +11,12 @@ Using for loops and basic branching logic, this website furthers my exploration 
 ## Behavior-driven Development Steps:
 
 |**Program replaces any input including a 0 with "Beep!"** | User input: "0" | Output: "Beep!" |
+
 | **Program replaces any input including a 1 with "Boop!"**| User Input: "13" | Output: "Boop!" |
+
 | **Program replaces numbers evenly divisible by 3 with "I'm sorry, Dave, I can't do that."**| Input: "87" | Output: "I'm sorry Dave..." |
+
 |**Program overrides previous specs if more "important" specs are met. In this application, that is (in order of most to least important): numbers divisible by 3, numbers including 1, and numbers including 0.** | Input: "30" Output: "I'm sorry, Dave..." |
-|**
 
 
 ## Setup/Installation Requirements
