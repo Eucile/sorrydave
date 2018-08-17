@@ -5,12 +5,13 @@
 
 ## Description
 
-Experimenting with while and for loops, this website furthers my exploration into javascript by taking user integers and converting them into Roman numerals. Behavior-driven Development steps:
+Using for loops, this website furthers my exploration into javascript by taking user integers and converting them into Roman numerals. Behavior-driven Development steps:
 
 |**Program Replaces 0 with "Beep!"** | User input: "0" | Output: "Beep!" |
 | **Program replaces 1 with "Boop!"**| User Input: "13" | Output: "Boop!" |
 | **Program replaces numbers evenly divisible by 3 with "I'm sorry, Dave, I can't do that."**| Input: "87" | Output: "I'm sorry Dave..." |
 |**Program overrides previous specs if latter specs are met, in order of importance** | Input: "30" Output: "I'm sorry, Dave..." |
+|**
 
 
 ## Setup/Installation Requirements
