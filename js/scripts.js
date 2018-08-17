@@ -3,7 +3,7 @@ $(document).ready(function() {
   event.preventDefault();
     var numberInput = parseInt($("input#userNumber").val());
     var robotString = '';
-    var numArray = 0;
+
 
 
 
@@ -17,8 +17,7 @@ $(document).ready(function() {
       } else {
 
         for (var i = 0; i <= numberInput; i++) {
-          var numberIndex = numArray.push(numberInput[i]);
-          numArray += numberIndex;
+          robotString += i;
         }
       }
 
