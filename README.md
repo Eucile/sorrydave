@@ -6,9 +6,9 @@
 
 ## Description
 
-Launched on [GitHub Pages](https://eucile.github.io/sorrydave)
+This project is launched on [GitHub Pages](https://eucile.github.io/sorrydave)
 
- Using for loops and basic branching logic, this website furthers my exploration into javascript by taking user integers and converting user input that includes specific numbers, like 1 or 0, into different outputs.
+ Using for loops and some branching logic, this application furthers my exploration into javascript by taking user integers and converting input that includes specific numbers, like 1 or 0, into different outputs.
 
 ## Behavior-driven Development Steps:
 
