@@ -14,12 +14,10 @@ p {
 }
 
 img {
-  align-items: center;
   width: 500px;
   display: block;
   margin: 0 auto;
 }
-
 
 .foreground {
   background-color: white;

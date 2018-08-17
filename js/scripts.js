@@ -15,14 +15,12 @@ $(document).ready(function() {
       } else if (numberInput.toString().includes('0')) {
         robotString += "Beep!";
       } else {
-
         for (var i = 0; i <= numberInput; i++) {
           robotString += i;
         }
       }
 
-  
   $(".answer").text(robotString);
 
-});
+  });
 });
