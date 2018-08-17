@@ -3,9 +3,10 @@
   background-image: url("https://codepen.io/saransh/pen/BKJun/image/large.png");
   color: white;
   border-style: ridge;
-  margin-top: 10px;
+  margin-top: 20px;
   width: 500px;
   margin-left: 300px;
+  margin-bottom: 50px;
 }
 
 h1 {
@@ -30,7 +31,6 @@ img {
   padding: 30px;
   border-radius: 45px;
   border-style: groove;
-  margin-bottom: 400px;
 }
 
 body {
