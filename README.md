@@ -1,6 +1,6 @@
 # Sorry, Dave
 
-#### Application to convert users input into different returns based on what numbers they include or if the value of their input is evenly divisible by 3  17 Aug 2018
+#### Application to convert user input into different returns based on what numbers they include or if the value of their input is evenly divisible by 3  17 Aug 2018
 
 #### By Krystal Foster
 
@@ -14,8 +14,8 @@ This project is launched on [GitHub Pages](https://eucile.github.io/sorrydave)
 
 | **Program replaces any input including a 0 with "Beep!"** | User input: "0" | Output: "Beep!" |
 | **Program replaces any input including a 1 with "Boop!"**| User Input: "13" | Output: "Boop!" |
-| **Program replaces numbers evenly divisible by 3 with "I'm sorry, Dave, I can't do that."**| Input: "87" | Output: "I'm sorry Dave..." |
-| **Program overrides previous specs if more "important" specs are met. In this application, that is (in order of most to least important): numbers divisible by 3, numbers including 1, and numbers including 0.** | Input: "30" Output: "I'm sorry, Dave..." |
+| **Program replaces numbers evenly divisible by 3 with "I'm sorry, Dave, I can't do that."**| User input: "87" | Output: "I'm sorry Dave..." |
+| **Program overrides previous specs if more "important" specs are met. In this application, that is (in order of most to least important): numbers divisible by 3, numbers including 1, and numbers including 0.** | User input: "30" Output: "I'm sorry, Dave..." |
 
 
 ## Setup/Installation Requirements

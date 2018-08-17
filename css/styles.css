@@ -2,7 +2,7 @@
   display: none;
   background-image: url("https://codepen.io/saransh/pen/BKJun/image/large.png");
   color: white;
-  border-style: outset;
+  border-style: ridge;
   margin-top: 10px;
   width: 500px;
   margin-left: 300px;
@@ -30,6 +30,7 @@ img {
   padding: 30px;
   border-radius: 45px;
   border-style: groove;
+  margin-bottom: 400px;
 }
 
 body {

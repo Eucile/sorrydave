@@ -18,5 +18,6 @@ $(document).ready(function() {
   }
 
   $(".answer").text(robotString);
+  span.scrollIntoView();
   });
 });
