@@ -1,12 +1,14 @@
 # Sorry, Dave
 
-#### Application to convert users input into various replies based on what numbers they include or if the value of their input is evenly divisible by 3  17 Aug 2018
+#### Application to convert users input into different returns based on what numbers they include or if the value of their input is evenly divisible by 3  17 Aug 2018
 
 #### By Krystal Foster
 
 ## Description
 
-Using for loops, this website furthers my exploration into javascript by taking user integers and converting user input that includes specific numbers, like 1 or 0, into different messages. Behavior-driven Development steps:
+Using for loops and basic branching logic, this website furthers my exploration into javascript by taking user integers and converting user input that includes specific numbers, like 1 or 0, into different outputs.
+
+## Behavior-driven Development Steps:
 
 |**Program replaces any input including a 0 with "Beep!"** | User input: "0" | Output: "Beep!" |
 | **Program replaces any input including a 1 with "Boop!"**| User Input: "13" | Output: "Boop!" |
