@@ -8,7 +8,7 @@
 
 This project is launched on [GitHub Pages](https://eucile.github.io/sorrydave)
 
- Using for loops and some branching logic, this application furthers my exploration into javascript by taking user integers and converting input that includes specific numbers, like 1 or 0, into different outputs.
+ Using for loops and some branching logic, this application furthers my exploration into javaScript by taking user integers and converting input that includes specific numbers, like 1 or 0, into different outputs.
 
 ## Behavior-driven Development Steps:
 
@@ -20,7 +20,7 @@ This project is launched on [GitHub Pages](https://eucile.github.io/sorrydave)
 
 ## Setup/Installation Requirements
 
-    This webpage requires no instillation.
+    This webpage requires no instillation. Open in Gh-Pages or:
     1. Clone the repository in the terminal, using the "git clone" command.
     2. CD into the directory of interest.
     3. Open the index.html file in your browser, using "open index.html" or a method of your choosing.
@@ -31,7 +31,7 @@ No known bugs
 
 ## Support and contact details
 
-Please email kmfoster777@gmail.com if an issue arises.
+Please email kmfoster777@gmail.com if questions or issues arise.
 
 ## Technologies Used
 
