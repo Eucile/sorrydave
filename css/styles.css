@@ -3,10 +3,11 @@
   background-image: url("https://codepen.io/saransh/pen/BKJun/image/large.png");
   color: white;
   border-style: inset;
-  width: 450px;
+  width: 455px;
   float: right;
-  position: static;
-  overflow:hidden;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .form-control-sm {
