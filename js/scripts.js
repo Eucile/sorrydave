@@ -1,4 +1,4 @@
-// Code to replace all numbers divisible by 3 with multi "I'm sorry Dave"'s' too
+// Code to replace all numbers divisible by 3 with multi "I'm sorry Dave"'s as well as the range
 
 // function getRobotString(numberInput) {
 // var robotString = '';
@@ -36,7 +36,7 @@ if ((numberInput % 3 === 0) && (numberInput > 0)) {
     } else if (i.toString().includes('0')) {
       robotString += "Beep!";
     } else {
-      robotString += i;
+      robotString += i + "," + " ";
     }
   }
 }
