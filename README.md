@@ -12,10 +12,12 @@ This project is launched on [GitHub Pages](https://eucile.github.io/sorrydave)
 
 ## Behavior-driven Development Steps:
 
-| **Program replaces any input including a 0 with "Beep!"** | User input: "0" | Output: "Beep!" |
-| **Program replaces any input including a 1 with "Boop!"**| User Input: "13" | Output: "Boop!" |
-| **Program replaces numbers evenly divisible by 3 with "I'm sorry, Dave, I can't do that."**| User input: "87" | Output: "I'm sorry Dave..." |
-| **Program overrides previous specs if more "important" specs are met. In this application, that is (in order of most to least important): numbers divisible by 3, numbers including 1, and numbers including 0.** | User input: "30" Output: "I'm sorry, Dave..." |
+| **Program replaces 0's with "Beep"** | User input: "0" | Output: "Beep!" |
+| **Program replaces any 1's with "Boop!"**| User Input: "1" | Output: "Boop!" |
+| **Program replaces numbers evenly divisible by 3 with "I'm sorry, Dave, I can't do that."**| User input: "30" | Output: "I'm sorry Dave..." |
+| **Program overrides previous specs if the whole inputted number is divisible by 3. In this application, that would mean 1's and 0's are replaced in a range, but if the number itself happens to be divisible by 3, only the message would appear** | User input: "30" Output: "I'm sorry, Dave..." |
+||**Program returns the reversed range of numbers not divisible by 3, replacing 1's and 0's** || User input: "4" | Output: "32Boop!Beep!" |
+||**Program checks that the input is a number and alerts the user if it is not.** | User input: "hi" | Output: "Please enter a number, Dave." |
 
 
 ## Setup/Installation Requirements
