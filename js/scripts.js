@@ -21,6 +21,12 @@
 function getRobotString(numberInput) {
 var robotString = '';
 
+if (!Number.isInteger(parseInt(numberInput))) {
+  alert("Please enter a number, Dave.")
+  return "";
+}
+number = parseInt(numberInput)
+
 if ((numberInput % 3 === 0) && (numberInput > 0)) {
   robotString += "I'm sorry, Dave, I can't do that.";
 } else {
@@ -41,6 +47,6 @@ $(document).ready(function() {
   $("#formOne").submit(function() {
     event.preventDefault();
     $(".well").fadeIn(2000);
-    $(".answer").text(getRobotString(parseInt($("input#userNumber").val())));
+    $(".answer").text(getRobotString($("input#userNumber").val()));
   });
 });
