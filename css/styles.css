@@ -1,7 +1,7 @@
 .well {
   display: none;
-  background-image: url("https://codepen.io/saransh/pen/BKJun/image/large.png");
-  color: white;
+  /* background-image: url("https://codepen.io/saransh/pen/BKJun/image/large.png"); */
+  color: black;
   border-style: inset;
   width: 455px;
   float: right;

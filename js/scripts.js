@@ -36,7 +36,7 @@ function getRobotString(numberInput) {
 var robotString = '';
 
 if (!Number.isInteger(parseInt(numberInput))) {
-  alert("Please enter a number, Dave.")
+  alert("Please enter a number, Dave.");
   return "";
 }
 var number = parseInt(numberInput)
